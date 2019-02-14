@@ -1,0 +1,3 @@
+﻿  Sketcher.cpp
+d:\sketcher\sketcher\sketcher\sketcher.cpp(27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Sketcher.vcxproj -> D:\Sketcher\Sketcher\Debug\Sketcher.exe
